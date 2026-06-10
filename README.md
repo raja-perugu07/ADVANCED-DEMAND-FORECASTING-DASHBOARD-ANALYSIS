@@ -3,6 +3,7 @@
 ## Overview
 
 This project presents an interactive Power BI dashboard designed to analyze retail demand forecasting, sales performance, inventory efficiency, promotional impact, and regional sales distribution. The dashboard enables business stakeholders to identify demand gaps, evaluate operational performance, and support data-driven decision-making.
+<img width="1167" height="771" alt="Screenshot 2026-06-10 152025" src="https://github.com/user-attachments/assets/f46f2f9f-ff74-4bf9-9752-dfe4b26998bb" />
 
 ## Business Problem
 
